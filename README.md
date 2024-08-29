@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ertugrul Kasikci</h1>
-<h3 align="center">I am an enthusiastic computer engineer with a passion for continuous learning.</h3>
+<!-- <h3 align="center">I am an enthusiastic computer engineer with a passion for continuous learning.</h3> -->
 
 <!-- - 🔭 I’m currently working at **Computer Lab of Paris 6 (Lip6)** -->
 
